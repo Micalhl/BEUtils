@@ -1,0 +1,16 @@
+Command:
+  Player:
+    Permission: "&8[&3BE&bUtils&8] &f玩家 &3{0} &f被拒绝使用命令 &3{1}&f ,权限为 &3{2} &f."
+    NoPlayer: "&8[&3BE&bUtils&8] &f指定的玩家不存在(请检查大小写)."
+    Modules:
+      AACH:
+        NoPlayer: "&8[&3BE&bUtils&8] &f请输入玩家名."
+        NoItem: "&8[&3BE&bUtils&8] &f请输入物品名."
+Modules:
+  AACH:
+    NoItem: "&8[&3BE&bUtils&8] &f在系统里未找到 &3{0} &f这个物品."
+    MS:
+      GiveSuccessful: "&8[&3BE&bUtils&8] &f已成功获得 {0} &f."
+      InventoryFull: "&8[&3BE&bUtils&8] &f你的背包已满, 我们将把物品丢在地上."
+Depend:
+  TitleManager: "&8[&3BE&bUtils&8] &dDEPEND &8| &f检测到了 &3TitleManager &f并尝试自动关联."

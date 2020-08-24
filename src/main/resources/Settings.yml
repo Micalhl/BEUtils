@@ -1,0 +1,17 @@
+Modules:
+  ScoreBoard:
+    Enable: true
+    Title: "&9&lBlockEarth"
+    Value:
+      - ""
+      - "&e▫ &7在线: &a%server_online%"
+      - "&e▫ &7金币: &6$%vault_eco_balance%"
+      - ""
+      - "&c▫ &&死亡: &c?"
+      - "&c▫ &7s"
+      - ""
+      - "&a▫ &7理智: &a%ute_sanitycolor%%ute_san%%ute_sanitytend%"
+      - "&a▫ &7温度: &a%ute_temperaturecolor%%ute_tem%%ute_temperaturetend%"
+      - "&a▫ &7湿度: &a%ute_humiditycolor%%ute_hum%%ute_humiditytend%"
+      - "&a▫ &7季节: &a%ute_seasoncolor%%ute_season%"
+      - "&a▫ &7天数: &a%ute_day%"
